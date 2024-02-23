@@ -1,4 +1,4 @@
-namespace Outside.OrderStreamSync.Specs;
+﻿namespace Outside.OrderStreamSync.Specs;
 
 public class UnitTest1
 {
