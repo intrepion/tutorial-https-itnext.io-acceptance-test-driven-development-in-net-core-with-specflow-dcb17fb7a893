@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outside.OrderStreamSync", "Outside.OrderStreamSync\Outside.OrderStreamSync.csproj", "{0D387BA7-1B71-4B64-80C6-53E4E9FE20A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outside.OrderStreamSync.Specs", "Outside.OrderStreamSync.Specs\Outside.OrderStreamSync.Specs.csproj", "{3530B881-DFDE-41F8-A3C1-407E7B498D9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0D387BA7-1B71-4B64-80C6-53E4E9FE20A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D387BA7-1B71-4B64-80C6-53E4E9FE20A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D387BA7-1B71-4B64-80C6-53E4E9FE20A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3530B881-DFDE-41F8-A3C1-407E7B498D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3530B881-DFDE-41F8-A3C1-407E7B498D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3530B881-DFDE-41F8-A3C1-407E7B498D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3530B881-DFDE-41F8-A3C1-407E7B498D9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
